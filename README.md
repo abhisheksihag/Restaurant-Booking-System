@@ -10,9 +10,6 @@ A booking system for restaurants where users can signin/signup and reserve table
 [Application Structure](#application-structure) \
 [Set Up](#set-up)
 
-# General Info
-The goal of this project was to **design, develop and deploy** in the **Cloud** a full stack web app using **Figma**, the **[MERN](https://www.mongodb.com/mern-stack)** stack and **AWS** services. **[MVCS](https://quantiphi.com/an-introduction-to-mvcs-architecture/)** pattern was used in the backend of this application. This project was for training purposes.
-
 # Technologies
 - UI
   - Figma
